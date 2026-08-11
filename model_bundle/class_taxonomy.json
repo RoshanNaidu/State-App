@@ -1,0 +1,40 @@
+{
+  "class_names": [
+    "no_obstruction",
+    "official_low_head_dam",
+    "official_dam_or_control_structure",
+    "possible_fallen_tree",
+    "possible_log_jam_or_woody_debris",
+    "possible_debris_jam_mixed_material",
+    "possible_beaver_dam",
+    "possible_sediment_gravel_bar",
+    "possible_rock_riffle_or_natural_drop",
+    "possible_ice_or_seasonal_blockage",
+    "bridge_or_road_crossing_false_positive",
+    "culvert_or_small_crossing_possible_obstruction",
+    "shadow_tree_canopy_false_positive",
+    "vegetation_aquatic_growth",
+    "dry_or_low_water_channel_artifact",
+    "uncertain_obstruction",
+    "insufficient_data"
+  ],
+  "class_training_counts": {
+    "no_obstruction": 120,
+    "official_low_head_dam": 116,
+    "official_dam_or_control_structure": 4,
+    "possible_fallen_tree": 0,
+    "possible_log_jam_or_woody_debris": 0,
+    "possible_debris_jam_mixed_material": 0,
+    "possible_beaver_dam": 0,
+    "possible_sediment_gravel_bar": 0,
+    "possible_rock_riffle_or_natural_drop": 0,
+    "possible_ice_or_seasonal_blockage": 0,
+    "bridge_or_road_crossing_false_positive": 60,
+    "culvert_or_small_crossing_possible_obstruction": 0,
+    "shadow_tree_canopy_false_positive": 0,
+    "vegetation_aquatic_growth": 0,
+    "dry_or_low_water_channel_artifact": 0,
+    "uncertain_obstruction": 0,
+    "insufficient_data": 0
+  }
+}
